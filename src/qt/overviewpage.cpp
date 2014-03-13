@@ -146,7 +146,7 @@ void OverviewPage::setBalance(qint64 balance, qint64 unconfirmedBalance, qint64 
 
 void OverviewPage::setNumTransactions(int count)
 {
-    ui->labelNumTransactions->setText(QLocale::system().toString(count));
+    //ui->labelNumTransactions->setText(QLocale::system().toString(count));
 }
 
 void OverviewPage::setModel(WalletModel *model)
