@@ -1,0 +1,9 @@
+Building DeltaCoin
+
+See doc/readme-qt.rst for instructions on building DeltaCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of DeltaCoin.
+
+See doc/build-*.txt for instructions on building DeltaCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Litecoin.
